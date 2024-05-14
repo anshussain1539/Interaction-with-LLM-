@@ -10,16 +10,16 @@ This project provides a framework for AI-human interaction through text-based co
 
   Create a Virtual Environment:
   
-        python -m venv env
+  python -m venv env
 
   Activate the Virtual Environment (Windows):
   
-        .\env\Scripts\activate
+  .\env\Scripts\activate
   
   Install Requirements:
         
-        pip install -r requirements.txt
+  pip install -r requirements.txt
   
   Run the Script:
         
-        python func_calling.py
+  python func_calling.py
