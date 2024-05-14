@@ -10,7 +10,7 @@ This project provides a framework for AI-human interaction through text-based co
 
   Create a Virtual Environment:
   
-  python -m venv env
+    python -m venv env
 
   Activate the Virtual Environment (Windows):
   
